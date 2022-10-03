@@ -1,0 +1,3 @@
+[submodule "collectivo-ux"]
+	path = collectivo-ux
+	url = https://github.com/MILA-Wien/collectivo-ux.git
